@@ -15,7 +15,7 @@ copyright = "© 2024 transylvania sprint organizers"
 [params.author]
   name = "Transylvania Sprint"
   image = "img/logo.png"
-  headline = "Nix/OS hackathon in Transylvania, Romania"
+  headline = "One week of Nix/OS hacking in Romania"
   links = [
     { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -29,7 +29,7 @@ copyright = "© 2024 transylvania sprint organizers"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/username" },
+    { github = "https://github.com/transylvania-sprint/transylvaniasprint.org" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
