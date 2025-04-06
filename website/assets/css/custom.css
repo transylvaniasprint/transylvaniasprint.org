@@ -16,3 +16,7 @@ header {
     top: 0;
     z-index: 1;
 }
+
+header.dark\:text-neutral {
+    background-color: rgba(var(--color-neutral-dark));
+}
