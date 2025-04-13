@@ -4,15 +4,15 @@
 
 More details soon!
 
-# Registration
+## Registration
 
 Registration will open soon.
 
-# Venue, Accommodation, and Food
+## Venue, Accommodation, and Food
 
-# Travel
+## Travel
 
-# Activities
+## Activities
 
 Activities aren't fully planned yet, but might include:
 
@@ -27,7 +27,7 @@ Activities aren't fully planned yet, but might include:
 - Table soccer
 - Cocktail bar
 
-# Sponsors
+## Sponsors
 
 To make this event possible, we are seeking sponsorship from organizations that are passionate about Nix, NixOS, and free software.
 
@@ -49,4 +49,4 @@ Your support would help cover logistics, venue costs, participant support (accom
 </button>
 </div>
 
-# Organizers
+## Organizers
