@@ -40,11 +40,13 @@ Your support would help cover logistics, venue costs, participant support (accom
 | **Company**    | 1500€  | Individual tier + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | **Individual** | 500€   | Logo on the website. You are covering your cost of participating. Thank you!                    |
 
+<div align="center" class="mb-10">
 <button
  id="sponsorship-contact-button"
  onclick="window.location.href='mailto:transylvaniasprint@gmail.com'"
  class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
   Get in touch
 </button>
+</div>
 
 # Organizers
