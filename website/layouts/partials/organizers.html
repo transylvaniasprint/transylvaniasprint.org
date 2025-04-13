@@ -1,0 +1,33 @@
+{{ $lazy := .Params.enableImageLazyLoading | default .Site.Params.enableImageLazyLoading | default true }}
+{{ $organizers := site.Data.organizers }}
+
+<div class="flex flex-col gap-6">
+    {{ range $organizers }}
+    <div class="flex py-6">
+        {{ $altText := .name | default "Organizer" }}
+        {{ with .image }}
+        {{ $imgClass := "!mb-0 !mt-0 me-4 w-24 h-auto rounded-full" }}
+        <img src="{{ . | safeURL }}" alt="{{ $altText }}" class="{{ $imgClass }}" {{ if $lazy }}loading="lazy" {{ end
+            }}>
+        {{ end }}
+        <div class="place-self-center">
+            {{ with .name | markdownify | emojify }}
+            <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+                Organizer
+            </div>
+            <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+                {{ . }}
+            </div>
+            {{ end }}
+            {{ with .bio | markdownify | emojify }}
+            <div class="text-sm text-neutral-700 dark:text-neutral-400">{{ . }}</div>
+            {{ end }}
+            {{ if .links }}
+            <div class="text-2xl sm:text-lg">
+                {{ partial "organizer-links.html" . }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+</div>
