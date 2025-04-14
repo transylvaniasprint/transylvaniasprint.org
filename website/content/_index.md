@@ -50,3 +50,5 @@ Your support would help cover logistics, venue costs, participant support (accom
 </div>
 
 ## Organizers
+
+{{< organizers >}}

@@ -1,4 +1,4 @@
-{{ $lazy := .Params.enableImageLazyLoading | default .Site.Params.enableImageLazyLoading | default true }}
+{{ $lazy := .Page.Params.enableImageLazyLoading | default .Site.Params.enableImageLazyLoading | default true }}
 {{ $organizers := site.Data.organizers }}
 
 <div class="flex flex-col gap-6">
