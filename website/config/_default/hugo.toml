@@ -4,6 +4,7 @@
 
 baseURL = "https://transylvaniasprint.org/"
 defaultContentLanguage = "en"
+theme = "congo"
 
 enableRobotsTXT = true
 summaryLength = 0
