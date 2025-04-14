@@ -3,10 +3,25 @@
   image: https://avatars.githubusercontent.com/u/302429?v=4
   links:
     github: https://github.com/brainrake
-- name: Paul Meyer (katexochen)
-  bio: Passionated Nixer from Germany.
+- name: Paul Meyer
+  bio: NixOS maintainer, on the nixpkgs Go team. Expert in reproducible builds and Confidential Computing.
   image: https://avatars.githubusercontent.com/u/49727155?v=4
   links:
     linkedin: https://linkedin.com/in/paul-h-meyer
     mastodon: https://infosec.exchange/@katexochen
     github: https://github.com/katexochen
+- name: Neyts Zupan
+  role: Advisor
+  bio: Recently converted Nix evangelist, founder of [Pareto Security](https://paretosecurity.com/). Organizer of [OceanSprint](https://oceansprint.org/)
+  image: https://avatars.githubusercontent.com/u/311580?v=4
+  links:
+    twitter: https://x.com/nzupan
+    github: https://github.com/zupo
+    bluesky: https://bsky.app/profile/zupo.bsky.social
+- name: Domen Kožar
+  role: Advisor
+  bio: Long time contributor to Nix, author of [devenv.sh](https://devenv.sh/) and [Cachix](https://cachix.org/). Organizer of [OceanSprint](https://oceansprint.org/).
+  image: https://avatars.githubusercontent.com/u/126339?v=4
+  links:
+    twitter: https://x.com/domenkozar
+    github: https://github.com/domenkozar
