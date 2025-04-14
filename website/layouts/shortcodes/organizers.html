@@ -1,12 +1,12 @@
 {{ $lazy := .Page.Params.enableImageLazyLoading | default .Site.Params.enableImageLazyLoading | default true }}
 {{ $organizers := site.Data.organizers }}
 
-<div class="flex flex-col gap-6">
+<div class="flex flex-col gap-12">
     {{ range $organizers }}
-    <div class="flex py-6">
+    <div class="flex">
         {{ $altText := .name | default "Organizer" }}
         {{ with .image }}
-        {{ $imgClass := "!mb-0 !mt-0 me-4 w-24 h-auto rounded-full" }}
+        {{ $imgClass := "!mb-0 !mt-0 me-4 w-24 h-24 rounded-full" }}
         <img src="{{ . | safeURL }}" alt="{{ $altText }}" class="{{ $imgClass }}" {{ if $lazy }}loading="lazy" {{ end
             }}>
         {{ end }}
