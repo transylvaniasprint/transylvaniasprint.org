@@ -14,7 +14,7 @@ copyright = "© 2024 transylvania sprint organizers"
 
 [params.author]
   name = "Transylvania Sprint"
-  image = "img/logo.png"
+  image = "img/logo.svg"
   headline = "One week of Nix/OS hacking in Romania"
   links = [
     { email = "mailto:transylvaniasprint@gmail.com" },
