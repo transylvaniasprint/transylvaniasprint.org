@@ -8,6 +8,10 @@ More details soon!
 
 Registration will open soon.
 
+{{< registerButton id="form-button" disabledText="You Registered!" href="?f=eyJvcmRlclN1Y2Nlc3MiOiB0cnVlfQ" target="_self" >}}
+Register
+{{< /registerButton >}}
+
 ## Venue, Accommodation, and Food
 
 ## Travel
