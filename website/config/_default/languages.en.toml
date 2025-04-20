@@ -20,5 +20,5 @@ copyright = "© 2024 transylvania sprint organizers"
     { email = "mailto:transylvaniasprint@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
     { github = "https://github.com/transylvania-sprint/transylvaniasprint.org" },
-    { mastodon = "https://mastodon.instance/@username" },
+    { mastodon = "https://hachyderm.io/@transylvaniasprint" },
   ]
