@@ -21,4 +21,5 @@ copyright = "© 2024 transylvania sprint organizers"
   #   { link = "https://link-to-some-website.com/" },
     { github = "https://github.com/transylvania-sprint/transylvaniasprint.org" },
     { mastodon = "https://hachyderm.io/@transylvaniasprint" },
+    { bluesky = "https://bsky.app/profile/transylvaniasprint.bsky.social" },
   ]
