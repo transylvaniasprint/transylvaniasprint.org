@@ -13,13 +13,11 @@ Registration will open soon.
 
 ## Venue, Accommodation, and Food
 
-The location for the sprint is a [guest house](https://maps.app.goo.gl/wgS4KTsY386hE1H9A) in Adrianu Mare, in the countryside near the city of [Târgu Mureș](https://en.wikipedia.org/wiki/Targu_Mures), Romania.
-Accomodation is included and will be provided in shared rooms with 2-3 beds.
-Our hosts will provide three delicious vegetarian meals per day.
-Water, tea, coffee, and some drinks are included, with more available for purchase.
+The location for the sprint is a [guest house](https://maps.app.goo.gl/wgS4KTsY386hE1H9A) in Adrianu Mare, in the countryside near the city of [Târgu Mureș](https://en.wikipedia.org/wiki/Targu_Mures) in [Tranylvania](https://en.wikipedia.org/wiki/Transylvania), Romania.
 
-Guest rooms may be available for rent in nearby people's homes, on request.
-For more food and drink, there are supermarkets and a restaurants (some with delivery to the venue) in the nearby town [Miercurea Nirajului](https://maps.app.goo.gl/hDiKvfMnFHAbFXj47).
+Accomodation is included and will be provided in shared rooms with 2-3 beds. Our hosts will provide three delicious vegetarian meals per day. Other dietary restrictions can be accommodated, just let us know in advance. Water, tea, coffee, and some drinks are included, with more available for purchase.
+
+Guest rooms may be available for rent in nearby people's homes, on request. For more food and drink, there are supermarkets and a restaurants (some with delivery to the venue) in the nearby town [Miercurea Nirajului](https://maps.app.goo.gl/hDiKvfMnFHAbFXj47).
 
 ## Travel
 
@@ -35,17 +33,15 @@ There are two airports in the area:
 [Târgu Mureș (TGM)](https://aeroportultransilvania.ro/en/) 30 minutes from the venue but serves few destinations.
 [Cluj-Napoca (CLJ)](https://www.airportcluj.ro/en/) 2 hours from the venue.
 
-We will arrange transport via car or charter bus from Târgu Mureș to the venue on the day before the sprint starts (2025-10-05) and back on the day after the sprint ends (2025-10-12).
-
-We might be able arrange a shuttle from Cluj Napoca airport to the venue. Otherwise you may need to take the bus to Târgu Mureș and we will pick you up from there.
+We will arrange transport via car or charter bus from Târgu Mureș to the venue on the day before the sprint starts (2025-10-05) and back on the day after the sprint ends (2025-10-12). We might be able arrange a shuttle from Cluj Napoca airport to the venue. Otherwise you may need to take the bus to Târgu Mureș and we will pick you up from there.
 
 ### Rail, Bus
 
-Târgu Mureș is the closest train station, with connections to Bucharest and other cities in Romania, as well as international connections through Budapest.
+Târgu Mureș is the closest train station, with connections to Bucharest and other cities in Romania, as well as international connections through Budapest etc.
 
 We may also be able to pick you up if you arrive to Cluj Napoca by train, as above.
 
-You can use the German railway company's website to plan your trip, as well as book international tickets: https://int.bahn.de/en
+You can use the German railway company's website to plan your trip, as well as book international tickets: https://int.bahn.de/en. Be aware, there is ongoing construction work on the rail network, which may affect your travel plans.
 
 ### Car
 

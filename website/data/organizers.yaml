@@ -1,8 +1,10 @@
 - name: Márton Boros
-  bio: Event coordinator with a love for logistics.
+  bio: Infrastructure developer, Nix contributor, and festival organizer.
   image: https://avatars.githubusercontent.com/u/302429?v=4
   links:
     github: https://github.com/brainrake
+    mastodon: https://mastodon.social/@brainrake
+    linkedin: https://linkedin.com/in/martonboros
 - name: Paul Meyer
   bio: NixOS maintainer, on the nixpkgs Go team. Expert in reproducible builds and Confidential Computing.
   image: https://avatars.githubusercontent.com/u/49727155?v=4
