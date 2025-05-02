@@ -3,9 +3,9 @@
 
 Join us for a week of Nix hacking, learning, and fun in the countryside of Transylvania, Romania.
 
-We will stay at a guest house in the countryside, with a nice view of the forest, a good spot for hiking. The guest house provides accomodation, food, fiber internet, common spaces for hacking, and other amenities.
+We will stay at a guest house in the countryside, with a nice view of the forest, a good spot for hiking. The guest house provides accommodation, food, fiber internet, common spaces for hacking, and other amenities.
 
-We aim to invite a mix of people, with intermediate to veteran Nix experience, providing an opportunity to learn from each other as well as improve the ecosystem. Accomodation is included so the event should be accessible for a wider range of people from the region, not only established professionals.
+We aim to invite a mix of people, with intermediate to veteran Nix experience, providing an opportunity to learn from each other as well as improve the ecosystem. Accommodation is included so the event should be accessible for a wider range of people from the region, not only established professionals.
 
 ## Registration
 
@@ -15,13 +15,13 @@ Registration will open soon.
 
 The location for the sprint is a [guest house](https://maps.app.goo.gl/wgS4KTsY386hE1H9A) in Adrianu Mare, in the countryside near the city of [Târgu Mureș](https://en.wikipedia.org/wiki/Targu_Mures) in [Tranylvania](https://en.wikipedia.org/wiki/Transylvania), Romania.
 
-Accomodation is included and will be provided in shared rooms with 2-3 beds. Our hosts will provide three delicious vegetarian meals per day. Other dietary restrictions can be accommodated, just let us know in advance. Water, tea, coffee, and some drinks are included, with more available for purchase.
+Accommodation is included and will be provided in shared rooms with 2-3 beds. Our hosts will provide three delicious vegetarian meals per day. Other dietary restrictions can be accommodated, just let us know in advance. Water, tea, coffee, and some drinks are included, with more available for purchase.
 
 Guest rooms may be available for rent in nearby people's homes, on request. For more food and drink, there are supermarkets and a restaurants (some with delivery to the venue) in the nearby town [Miercurea Nirajului](https://maps.app.goo.gl/hDiKvfMnFHAbFXj47).
 
 ## Travel
 
-You MUST let us know when you're arriving and departing so we can arrange appropriate transport.
+Let us know when you're arriving and departing so we can arrange appropriate transport.
 
 Unless you're driving, the best option is to come to the nearest city, Târgu Mureș. We will arrange transport via car or charter bus from Târgu Mureș to the venue on the day before the sprint starts (2025-10-05) and back on the day after the sprint ends (2025-10-12).
 
