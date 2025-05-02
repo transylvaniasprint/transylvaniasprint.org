@@ -85,6 +85,8 @@ Your support would help cover logistics, venue costs, participant support (accom
 </button>
 </div>
 
+{{< sponsors >}}
+
 ## Organizers
 
 {{< organizers >}}
