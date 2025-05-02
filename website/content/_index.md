@@ -72,7 +72,7 @@ Your support would help cover logistics, venue costs, participant support (accom
 
 | Tier           | Amount | Description                                                                                     |
 | -------------- | ------ | ----------------------------------------------------------------------------------------------- |
-| **Lambda**     | 3500€  | Company tier + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG. |
+| **Lambda**     | 3000€  | Company tier + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG. |
 | **Company**    | 1500€  | Individual tier + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | **Individual** | 500€   | Logo on the website. You are approximately covering the cost for one participant. Thank you!    |
 
