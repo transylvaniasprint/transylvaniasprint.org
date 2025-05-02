@@ -11,8 +11,8 @@ We aim to invite a mix of people, with intermediate to veteran Nix experience, p
 
 Registration will open soon.
 
-{{< registerButton id="form-button" disabledText="You Registered!" href="?f=eyJvcmRlclN1Y2Nlc3MiOiB0cnVlfQ" target="_self" >}}
-Register
+{{< registerButton id="form-button" disabledText="You singed up!" href="https://app.formbricks.com/s/cm9h7mcu24dskuf01ouvls71g" target="_self" >}}
+Sign up
 {{< /registerButton >}}
 
 ## Venue, Accommodation, and Food
