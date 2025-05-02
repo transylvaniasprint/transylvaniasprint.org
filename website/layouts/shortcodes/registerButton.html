@@ -1,21 +1,22 @@
 {{ $id := .Get "id" }}
 {{ $disabledText := .Get "disabledText" }}
 
-<a
-  class="!no-underline"
-  {{ with .Get "href" }}href="{{ . }}"{{ end }}
-  {{ with .Get "target" }}target="{{ . }}"{{ end }}
->
-  <button
-    id="{{ $id }}"
-    form="{{ $id }}-form"
-    type="button"
-    class="hidden !rounded-md bg-primary-600 px-4 py-1 !text-neutral hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
+<div align="center" class="mb-10">
+  <a
+    class="!no-underline"
+    {{ with .Get "href" }}href="{{ . }}"{{ end }}
+    {{ with .Get "target" }}target="{{ . }}"{{ end }}
   >
-    {{ .Inner }}
-  </button>
-</a>
-
+    <button
+      id="{{ $id }}"
+      form="{{ $id }}-form"
+      type="button"
+      class="hidden !rounded-md bg-primary-600 px-4 py-1 !text-neutral hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
+    >
+      {{ .Inner }}
+    </button>
+  </a>
+</div>
 
 <script type="text/javascript">
   base64URLdecode = (str) => {
