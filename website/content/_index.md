@@ -80,8 +80,8 @@ Your support would help cover logistics, venue costs, participant support (accom
 <button
  id="sponsorship-contact-button"
  onclick="window.location.href='mailto:transylvaniasprint@gmail.com'"
- class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
-  Get in touch
+ class="!rounded-md bg-primary-600 px-4 py-1 !text-neutral hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+  Become a sponsor
 </button>
 </div>
 
