@@ -1,4 +1,4 @@
-# - name: Example Company
-#   tier: lambda
-#   logo: https://example.com/logo.png
-#   url: https://example.com
+- name: NixOS Foundation
+  tier: company
+  logo: https://upload.wikimedia.org/wikipedia/commons/c/c4/NixOS_logo.svg
+  url: https://nixos.org
