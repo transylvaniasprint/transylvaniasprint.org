@@ -4,7 +4,7 @@
 
   <div class="space-y-10">
     {{ range $tier := $tiers }}
-      {{ $tierSponsors := where $sponsors "tier" $tier }}
+      {{ $tierSponsors := sort (where $sponsors "tier" $tier) "name" }}
       {{ if $tierSponsors }}
         <div>
           <h3 class="text-xl font-semibold capitalize mb-4">{{ $tier }} sponsors</h3>
