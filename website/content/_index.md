@@ -11,6 +11,10 @@ We aim to invite a mix of people, with intermediate to veteran Nix experience, p
 
 Registration will open soon.
 
+{{< registerButton id="form-button" disabledText="You Registered!" href="?f=eyJvcmRlclN1Y2Nlc3MiOiB0cnVlfQ" target="_self" >}}
+Register
+{{< /registerButton >}}
+
 ## Venue, Accommodation, and Food
 
 The location for the sprint is a [guest house](https://maps.app.goo.gl/wgS4KTsY386hE1H9A) in Adrianu Mare, in the countryside near the city of [Târgu Mureș](https://en.wikipedia.org/wiki/Targu_Mures) in [Tranylvania](https://en.wikipedia.org/wiki/Transylvania), Romania.
