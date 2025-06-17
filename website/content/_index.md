@@ -9,7 +9,7 @@ We aim to invite a mix of people, with intermediate to veteran Nix experience, p
 
 ## Registration
 
-Registration will open soon.
+We will accept applications in multiple batches, so your chances are better the earlier you apply. If there are any open questions, please reach out to us via mail or socials!
 
 {{< registerButton id="form-button" disabledText="You singed up!" href="https://app.formbricks.com/s/cm9h7mcu24dskuf01ouvls71g" target="_self" >}}
 Sign up
