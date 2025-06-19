@@ -45,18 +45,11 @@ You can use the German railway company's website to plan your trip, as well as b
 
 ### Car
 
-Drive to the destination: [Recenter House](https://maps.app.goo.gl/wgS4KTsY386hE1H9A) Parking is available.
+Drive to the destination: [Recenter House](https://maps.app.goo.gl/wgS4KTsY386hE1H9A). Parking is available.
 
 ## Activities
 
-Activities aren't fully planned yet, but might include:
-
-- hiking
-- archery
-- horse riding
-- yoga
-
-The following will be available at the venue:
+The guest house is near a forest, a good place for hiking. We may have other activities planned. The following will also be available at the venue:
 
 - hot tub
 - table soccer
@@ -64,7 +57,9 @@ The following will be available at the venue:
 
 The grounds are also host to [Mumush Music and Art Festival](https://www.mumush.world/). On the last day, we'll have a dance party with DJs, lights and visuals to celebrate our achievements together.
 
-## Sponsors
+{{< sponsors >}}
+
+## Sponsorship
 
 To make this event possible, we are seeking sponsorship from organizations that are passionate about Nix, NixOS, and free software.
 
@@ -84,8 +79,6 @@ Your support would help cover logistics, venue costs, participant support (accom
   Become a sponsor
 </button>
 </div>
-
-{{< sponsors >}}
 
 ## Organizers
 
