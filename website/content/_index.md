@@ -15,6 +15,29 @@ We will accept applications in multiple batches, so your chances are better the 
 Sign up
 {{< /registerButton >}}
 
+## Sponsorship
+
+To make this event possible, we are seeking sponsorship from organizations that are passionate about Nix, NixOS, and free software.
+
+Your support would help cover logistics, venue costs, participant support (accommodation, food, local transport), ensure the sprint is accessible to contributors from all backgrounds, and help us focus on hacking and moving the ecosystem forward.
+
+| Tier           | Amount | Description                                                                                     |
+| -------------- | ------ | ----------------------------------------------------------------------------------------------- |
+| **Lambda**     | 3000€  | Company tier + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG. |
+| **Company**    | 1500€  | Individual tier + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
+| **Individual** | 500€   | Logo on the website. You are approximately covering the cost for one participant. Thank you!    |
+
+<div align="center" class="mb-10">
+<button
+ id="sponsorship-contact-button"
+ onclick="window.location.href='mailto:transylvaniasprint@gmail.com'"
+ class="!rounded-md bg-primary-600 px-4 py-1 !text-neutral hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
+  Become a sponsor
+</button>
+</div>
+
+{{< sponsors >}}
+
 ## Venue, Accommodation, and Food
 
 The location for the sprint is a [guest house](https://maps.app.goo.gl/wgS4KTsY386hE1H9A) in Adrianu Mare, in the countryside near the city of [Târgu Mureș](https://en.wikipedia.org/wiki/Targu_Mures) in [Tranylvania](https://en.wikipedia.org/wiki/Transylvania), Romania.
@@ -60,29 +83,6 @@ The guest house is near a forest, a good place for hiking. We may have other act
 - cocktail bar
 
 The grounds are also host to [Mumush Music and Art Festival](https://www.mumush.world/). On the last day, we'll have a dance party with DJs, lights and visuals to celebrate our achievements together.
-
-{{< sponsors >}}
-
-## Sponsorship
-
-To make this event possible, we are seeking sponsorship from organizations that are passionate about Nix, NixOS, and free software.
-
-Your support would help cover logistics, venue costs, participant support (accommodation, food, local transport), ensure the sprint is accessible to contributors from all backgrounds, and help us focus on hacking and moving the ecosystem forward.
-
-| Tier           | Amount | Description                                                                                     |
-| -------------- | ------ | ----------------------------------------------------------------------------------------------- |
-| **Lambda**     | 3000€  | Company tier + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG. |
-| **Company**    | 1500€  | Individual tier + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
-| **Individual** | 500€   | Logo on the website. You are approximately covering the cost for one participant. Thank you!    |
-
-<div align="center" class="mb-10">
-<button
- id="sponsorship-contact-button"
- onclick="window.location.href='mailto:transylvaniasprint@gmail.com'"
- class="!rounded-md bg-primary-600 px-4 py-1 !text-neutral hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
-  Become a sponsor
-</button>
-</div>
 
 ## Organizers
 
