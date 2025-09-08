@@ -7,14 +7,6 @@ We will stay at a guest house in the countryside, with a nice view of the forest
 
 We aim to invite a mix of people, with intermediate to veteran Nix experience, providing an opportunity to learn from each other as well as improve the ecosystem. Accommodation is included so the event should be accessible for a wider range of people from the region, not only established professionals.
 
-## Registration
-
-We will accept applications in multiple batches, so your chances are better the earlier you apply. If there are any open questions, please reach out to us via mail or socials!
-
-{{< registerButton id="form-button" disabledText="You singed up!" href="https://app.formbricks.com/s/cm9h7mcu24dskuf01ouvls71g" target="_self" >}}
-Sign up
-{{< /registerButton >}}
-
 ## Sponsorship
 
 To make this event possible, we are seeking sponsorship from organizations that are passionate about Nix, NixOS, and free software.
@@ -26,15 +18,6 @@ Your support would help cover logistics, venue costs, participant support (accom
 | **Lambda**     | 3000€  | Company tier + Large logo on the T-shirt, 2 total reserved seats, shoutout during dinner, SWAG. |
 | **Company**    | 1500€  | Individual tier + Logo on the T-shirt, company name on name tag + 1 reserved seat.              |
 | **Individual** | 500€   | Logo on the website. You are approximately covering the cost for one participant. Thank you!    |
-
-<div align="center" class="mb-10">
-<button
- id="sponsorship-contact-button"
- onclick="window.location.href='mailto:transylvaniasprint@gmail.com'"
- class="!rounded-md bg-primary-600 px-4 py-1 !text-neutral hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700">
-  Become a sponsor
-</button>
-</div>
 
 {{< sponsors >}}
 
